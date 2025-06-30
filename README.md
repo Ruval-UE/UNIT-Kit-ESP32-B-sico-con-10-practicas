@@ -12,17 +12,23 @@ En este repositorio encontraras los programas cuya explicacion e implementacion 
 Contribuir al Repositorio 🤗
 Si encuentras algún problema o tienes una mejora para este repositorio, te invitamos a realizar un pull request. Para hacerlo, sigue estos pasos:
 
-Haz un Fork de este repositorio: Haz clic en el botón "Fork" en la parte superior derecha de esta página para crear una copia del repositorio en tu cuenta de GitHub.
+1. Haz un Fork de este repositorio: Haz clic en el botón "Fork" en la parte superior derecha de esta página para crear una copia del repositorio en tu cuenta de GitHub.
 
-Clona el repositorio forked: Clona el repositorio a tu máquina local usando el siguiente comando:
+2. Clona el repositorio forked: Clona el repositorio a tu máquina local usando el siguiente comando:
 
 git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-Crea una nueva rama: Crea una nueva rama para tus cambios:
+
+3. Crea una nueva rama: Crea una nueva rama para tus cambios:
+   
 git checkout -b nombre-de-tu-rama
-Realiza tus cambios: Realiza los cambios necesarios y commits:
+
+4. Realiza tus cambios: Realiza los cambios necesarios y commits:
 git add .
 git commit -m "Descripción de los cambios"
-Envía los cambios a tu repositorio forked: Empuja los cambios a tu repositorio en GitHub:
+
+5. Envía los cambios a tu repositorio forked: Empuja los cambios a tu repositorio en GitHub:
+   
 git push origin nombre-de-tu-rama
-Abre un Pull Request: Ve a la página del repositorio original en GitHub y abre un Pull Request desde tu rama recién creada.
+
+6. Abre un Pull Request: Ve a la página del repositorio original en GitHub y abre un Pull Request desde tu rama recién creada.
 Apreciamos tus contribuciones y esperamos trabajar juntos para mejorar este repositorio. ¡Gracias por tu colaboración!
